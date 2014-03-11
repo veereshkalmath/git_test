@@ -1,6 +1,4 @@
-!!!!!!!!!!!≥∏≤second changes!!!!!!!!!!!!
 
-########## changes#################
 
 source 'https://rubygems.org'
 #second-branch commit loki
