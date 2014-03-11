@@ -2,6 +2,9 @@
 #Added comment
 source 'https://rubygems.org'
 
+#Add loki's comment
+#second comment by loki
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.3'
 
